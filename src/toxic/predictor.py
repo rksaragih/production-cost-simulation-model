@@ -34,7 +34,14 @@ TOXIC_KEYWORDS = [
     "sialan",
     "setan",
     "brengsek",
-    "monyet"
+    "monyet",
+    "ngentot",
+    "ngentod",
+    "kentot",
+    "bacot",
+    "bacod",
+    "perek",
+    "bego"
 ]
 
 # =========================
